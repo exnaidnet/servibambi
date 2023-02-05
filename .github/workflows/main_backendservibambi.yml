@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'backendservibambi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59F6A947A677467DA45222A382F7B9D7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_732F9818B613430BA9DCE81B59AFD836 }}
           package: .
