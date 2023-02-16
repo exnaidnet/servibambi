@@ -67,7 +67,7 @@ mercadoPagoRoutes(app);
 
 
 
-server.listen(3000, '192.168.1.2' || 'localhost', function(){
+server.listen(3000, '0.0.0.0' || 'localhost', function(){
     console.log('Aplicacion de Node JS-ServuBambi ' + port + ' iniciada...')
 });
 
