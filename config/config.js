@@ -13,7 +13,7 @@ types.setTypeParser(1114, function(stringValue){
 const databaseConfig = {
     'host': '127.0.0.1',
     'port': 5432,
-    'database': 'servi_bambi',
+    'database': 'Vmarket',
     'user': 'postgres',
     'password': 'LOCOferr5227=)'
 };
